@@ -1,0 +1,4 @@
+order_id,order_date,customer_id,product_category,quantity,unit_price,returned
+O201,2026-09-01,C201,Electronics,2,100.00,false
+O202,2026-09-02,C202,Books,1,25.00,true
+O203,2026-09-03,C203,Sports,3,50.00,false
